@@ -1,0 +1,118 @@
+body {
+  background: #090909;
+}
+
+.bg-black {
+  background: #000;
+}
+
+.card-project:hover {
+  border: 1px solid #eee;
+  cursor: pointer;
+}
+
+
+form input {
+  font-family: 'Raleway', sans-serif;
+  border: 0;
+  padding: 5px 15px;
+  border-radius: 5px;
+  box-shadow: 0px 4px 5px rgb(75, 101, 212);
+  width: 400px;
+  height: 30px; 
+  display: block;
+  outline: none;
+}
+
+.button{
+  font-size: 18px;
+  transition: all 1s ease;
+  background-color: #352577;
+  color: #fff;
+  align-self: center;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  border: none;
+}
+.button:hover{
+  background-color: #3525ff;
+  width: 90px;
+}
+
+textarea{
+  font-family: 'Raleway', sans-serif;
+  border: 0;
+  height: 250px;
+  padding: 10px 15px;
+  border-radius: 20px;
+  box-shadow: 0px 4px 5px rgb(75, 101, 212);
+  resize: none;
+  width: 400px;
+  display: block;
+  outline: none;
+}
+
+.form-group{
+  margin-bottom: 15px;
+}
+
+form label{
+  display: inline-block;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.form-contact{
+  margin-left: 100px;
+}
+
+.title{
+  margin-left: 100px;
+}
+
+.full-width{
+  width: 100%;
+}
+
+.footer{
+  padding: 50px 0 0 0;
+  background-color: rgb(0, 0, 20);
+}
+
+.center{
+  text-align:center;
+}
+
+.row{
+  margin: 0px auto;
+}
+
+.follow{
+  margin-top: 20px; 
+}
+
+.social-links{
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.social-links a{
+  margin: 0 10px;
+}
+
+.social{
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.made-width{
+  padding: 0px 20px;
+  color: rgb(100, 100, 100);
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
